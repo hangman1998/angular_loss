@@ -8,3 +8,5 @@ n_plus_1_train.py
 Sampling.py
 dousa.py
 Models.py
+
+cifar-10-batches-py/
